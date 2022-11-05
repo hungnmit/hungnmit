@@ -75,8 +75,8 @@ Since I was a child, I have had a strong interest in computer programming🌐. A
 
 
 ### 📊 Github Stats
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hungnmit?cardType=level)](https://git.io/awesome-stats-card)
-![Most Used Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=hungnmit&layout=compact)https://github.com/hungnmit/github-readme-stats)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hungnmit?cardType=level&theme=github-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hungnmit&layout=compact)
 </a>
 
 <br>
