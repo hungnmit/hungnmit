@@ -75,7 +75,7 @@ Since I was a child, I have had a strong interest in computer programming🌐. A
 
 ### 📊 Github Stats
 ![My Awesome Stats](https://github-readme-stats.vercel.app/api?username=hungnmit&show_icons=true&count_private=true&include_all_commits=true&card_width=355)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hungnmit&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hungnmit&layout=compact&card_width=414)
 </a>
 
 <br>
